@@ -753,6 +753,7 @@ header .container {
 
 .event_1 a,
 .event_2  a {
+  display:block;
   text-decoration: none;
   color: #000;
   font-size: 12px;
